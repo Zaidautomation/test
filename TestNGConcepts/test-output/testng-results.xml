@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="2" passed="2">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="104" started-at="2020-11-09T13:49:17 IST" finished-at="2020-11-09T13:49:17 IST">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="104" started-at="2020-11-09T13:49:17 IST" finished-at="2020-11-09T13:49:17 IST">
+      <class name="com.testng.concepts.IgnoreTest">
+        <test-method status="PASS" signature="searchLaptop()[pri:0, instance:com.testng.concepts.IgnoreTest@78c03f1f]" name="searchLaptop" duration-ms="32" started-at="2020-11-09T13:49:17 IST" finished-at="2020-11-09T13:49:17 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- searchLaptop -->
+        <test-method status="PASS" signature="searchMobile()[pri:0, instance:com.testng.concepts.IgnoreTest@78c03f1f]" name="searchMobile" duration-ms="3" started-at="2020-11-09T13:49:17 IST" finished-at="2020-11-09T13:49:17 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- searchMobile -->
+      </class> <!-- com.testng.concepts.IgnoreTest -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
